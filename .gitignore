@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.ipynb
+Pipfile
+Pipfile.lock
+chroma_store/
+vector_store/
